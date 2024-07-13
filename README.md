@@ -1,7 +1,7 @@
 # README for Implementing Random Forest and Gradient Boosting Decision Trees
 
 ## Overview
-This README provides instructions on how Random Forest (RF) and Gradient Boosting Decision Trees (GBDT) for regression and binary classification tasks are implemented using Python. The implementation includes the necessary steps, from data preparation to model evaluation.
+This README provides instructions on how Random Forest (RF) and Gradient Boosting Decision Trees (GBDT) for regression and binary classification tasks are implemented using Python. The implementation includes the necessary steps, from data preparation to model evaluation. This was developed as part of EE511 at the University of Washington under the guidance of Professor J. Bilmes
 
 ## Prerequisites
 Ensure you have the following packages installed:
